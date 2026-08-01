@@ -1,6 +1,6 @@
 # Ross Baker
 
-Recent Oxford Mathematics graduate focusing on technical AI safety research — [full CV](https://github.com/rossbaker400/rossbaker400/raw/main/Ross_Baker_CV.pdf).
+Recent Oxford Mathematics graduate focusing on technical AI safety research — [full CV](https://drive.google.com/file/d/15gICWATUvHCLGZg_IcKbnU_pbMFJMrlO/view?usp=drive_link).
 
 **Papers:**
 - **Temporal Task Diversity: Inductive Biases Under Non-Stationarity in Synthetic Sequence Modelling** — accepted to the ICML 2026 Workshop on Foundations of Deep Generative Models; joint first author — [arXiv](https://arxiv.org/abs/2605.18281), [code](https://github.com/matomatical/temporal-task-diversity)
