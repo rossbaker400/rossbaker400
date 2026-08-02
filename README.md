@@ -6,8 +6,8 @@ Recent Oxford Mathematics graduate focusing on technical AI safety research — 
 
 - **Temporal Task Diversity: Inductive Biases Under Non-Stationarity in Synthetic Sequence Modelling** — accepted to the ICML 2026 Workshop on Foundations of Deep Generative Models; joint first author
 
-  [![arXiv](https://img.shields.io/badge/arXiv-2605.18281-b31b1b.svg)](https://arxiv.org/abs/2605.18281)
   [![Code](https://img.shields.io/badge/code-temporal--task--diversity-181717?logo=github)](https://github.com/matomatical/temporal-task-diversity)
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.18281-b31b1b.svg)](https://arxiv.org/abs/2605.18281)
 
 - **Optimal Affine Activation Steering Methods for Unlearning** — accepted to TAIS 2026, the Technical AI Safety Conference (non-archival); sole author
 
