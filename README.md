@@ -9,6 +9,8 @@ Recent Oxford Mathematics graduate focusing on technical AI safety research — 
   [![arXiv](https://img.shields.io/badge/arXiv-2605.18281-b31b1b.svg)](https://arxiv.org/abs/2605.18281)
   [![Code](https://img.shields.io/badge/code-temporal--task--diversity-181717?logo=github)](https://github.com/matomatical/temporal-task-diversity)
 
+  [![temporal-task-diversity](https://github-readme-stats.vercel.app/api/pin/?username=matomatical&repo=temporal-task-diversity)](https://github.com/matomatical/temporal-task-diversity)
+
 - **Optimal Affine Activation Steering Methods for Unlearning** — accepted to TAIS 2026, the Technical AI Safety Conference (non-archival); sole author
 
   [![TAIS 2026](https://img.shields.io/badge/TAIS-2026-blue)](https://tais2026.cc/s/Ross-Baker-TAIS-Paper.pdf)
