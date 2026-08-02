@@ -2,11 +2,19 @@
 
 Recent Oxford Mathematics graduate focusing on technical AI safety research — [full CV](https://drive.google.com/file/d/15gICWATUvHCLGZg_IcKbnU_pbMFJMrlO/view?usp=drive_link).
 
-**Papers:**
-- **Temporal Task Diversity: Inductive Biases Under Non-Stationarity in Synthetic Sequence Modelling** — accepted to the ICML 2026 Workshop on Foundations of Deep Generative Models; joint first author — [arXiv](https://arxiv.org/abs/2605.18281), [code](https://github.com/matomatical/temporal-task-diversity)
-- **Optimal Affine Activation Steering Methods for Unlearning** — accepted to TAIS 2026, the Technical AI Safety Conference (non-archival); sole author — [paper](https://drive.google.com/file/d/15jOwiSFogegVG4mDG0r8mzUfUm0-kyqh/view?usp=drive_link)
+## Papers
 
-**Research Interests:**
+- **Temporal Task Diversity: Inductive Biases Under Non-Stationarity in Synthetic Sequence Modelling** — accepted to the ICML 2026 Workshop on Foundations of Deep Generative Models; joint first author
+
+  [![arXiv](https://img.shields.io/badge/arXiv-2605.18281-b31b1b.svg)](https://arxiv.org/abs/2605.18281)
+  [![Code](https://img.shields.io/badge/code-temporal--task--diversity-181717?logo=github)](https://github.com/matomatical/temporal-task-diversity)
+
+- **Optimal Affine Activation Steering Methods for Unlearning** — accepted to TAIS 2026, the Technical AI Safety Conference (non-archival); sole author
+
+  [![TAIS 2026](https://img.shields.io/badge/TAIS-2026-blue)](https://tais2026.cc/s/Ross-Baker-TAIS-Paper.pdf)
+
+## Research Interests
+
 - **Representation engineering** — affine activation steering; distinguishing knowledge removal from output suppression in unlearning
 - **In-context learning** — transitions from memorisation to generalisation; inductive biases under non-stationarity
 - **Emergent misalignment** — inoculation prompting; the Persona Selection Model
